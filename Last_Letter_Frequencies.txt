@@ -1,5 +1,4 @@
 Letter Frequency
-s 1764
 y 665
 e 595
 d 431
@@ -22,6 +21,7 @@ w 28
 b 24
 u 13
 z 12
-j 0
-q 0
 v 0
+s 0
+q 0
+j 0
