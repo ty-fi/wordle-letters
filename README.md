@@ -8,10 +8,15 @@ The list of letters is from Donald Knuth's Stanford GraphBase, first published i
 
 ## Contents
 **sgb-words.txt** is a simple text file with the word set from Stanford GraphBase.
+
 **Letter_Freq.ipynb** is the Jupyter notebook that does the processing.
+
 **All_Letter_Frequencies.txt** is a simple list of letters sorted by their frequency in the word list.
+
 **First_Letter_Frequencies.txt** is a simple list of letters sorted by their frequency as the first leter in the word list.
+
 **Last_Letter_Frequencies.txt** is a simple list of letters sorted by their frequency as the last letter in the word list.
+
 **Three_Letter_Frequencies.txt** is a simple list of three-letter sequences, sorted by their frequency in the word list.
 
 ## Use
