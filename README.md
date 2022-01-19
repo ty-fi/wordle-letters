@@ -23,3 +23,7 @@ The list of letters is from Donald Knuth's Stanford GraphBase, first published i
 I'm torn about whether I'll use this or not for Wordle. Isn't the mystery more fun?
 
 Please use these tables if they're helpful to you or extend them to heatmaps, contextual clues, etc.
+
+## Notes
+
+I know that the actual Wordle word set is available out there, but that felt too close to cheating. I would bet the overlap between the word lists is pretty high.
